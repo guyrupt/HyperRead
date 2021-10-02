@@ -1,3 +1,4 @@
+// helper class from senior 
 #ifndef WEICHANG2L_H
 #define WEICHANG2L_H
 //-- Wei-Chang Chung 2013-05-20
